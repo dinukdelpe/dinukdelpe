@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinuk Delpechitra</h1>
 <h3 align="center">An undergraduate at SLIIT University. Experienced with all stages of the development cycle for dynamic web projects</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinukdelpe&label=Profile%20views&color=0e75b6&style=flat" alt="dinukdelpe" /> </p>
 
