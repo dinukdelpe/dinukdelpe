@@ -85,11 +85,6 @@
 
 ---
 
-<h3 align="left">🚀 Fun Projects:</h3>
-- 🌟 **[Project 1](#)**: Brief description of the project  
-- 🌟 **[Project 2](#)**: Brief description of the project  
-
----
 
 <h3 align="left">💡 Fun Facts About Me:</h3>
 - 🎨 I enjoy designing intuitive UI/UX for my projects.  
