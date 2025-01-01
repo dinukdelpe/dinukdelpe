@@ -87,9 +87,9 @@
 
 
 <h3 align="left">💡 Fun Facts About Me:</h3>
-- 🎨 I enjoy designing intuitive UI/UX for my projects.  
-- 🧩 I love solving puzzles and logical challenges.  
-- 🌍 I am an avid explorer of new tech tools and frameworks.
+- 🎨 I enjoy designing intuitive UI/UX for my projects.  <br>
+- 🧩 I love solving puzzles and logical challenges.  <br>
+- 🌍 I am an avid explorer of new tech tools and frameworks.<br>
 
 ---
 
